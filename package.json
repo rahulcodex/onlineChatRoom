@@ -20,7 +20,7 @@
     "moment": "^2.22.1",
     "moment-timezone": "^0.5.17",
     "mongoose": "^4.13.14",
-    "morgan": "^1.9.0",
+    "morgan": "^1.9.1",
     "pino": "^4.17.2",
     "request": "^2.83.0",
     "shortid": "^2.2.8",
